@@ -61,7 +61,13 @@ Link para qualquer página com `[Link](https://www.google.com/?hl=pt_br)`. Image
 Para citações a sintaxe funciona da seguinte forma:
 
 ```
+
 > Cada cachorro que lamba sua caceta.
 >
 >-Nóbrega, Victor
 ```
+
+Citações podem conter outros elementos de mardown:
+>**Dica** Use `Cmd + shift + Z` para entrar no modo Zen e escrever sem distrações.
+
+
