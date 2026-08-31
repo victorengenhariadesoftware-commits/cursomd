@@ -73,8 +73,7 @@ Citações podem conter outros elementos de mardown. Exemplo:
 ---
 
 Código
-Para blocos de código utilize a sintaxe:
-`
+Para blocos de código utilize a sintaxe ``` antes de iniciar e depois que encerrar o código:
 ```
 Código
 ```
