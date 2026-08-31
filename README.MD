@@ -54,3 +54,12 @@ Para listas ordenadas, use os números de referência:
 
 ## Links e Imagens
 Link para qualquer página com `[Link](https://www.google.com/?hl=pt_br)`. Imagens tem uma sintaxe parecida: `![Imagem](Endereço da imagem)`.
+
+---
+
+## Citações
+Para citações a sintaxe funciona da seguinte forma:
+
+> Cada cachorro que lamba sua caceta.
+>
+>_Nóbrega, Victor
