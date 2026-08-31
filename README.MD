@@ -32,18 +32,18 @@ Para listas ordenadas, use os números de referência:
 ## Para trabalhar com listas aninhadas, você pode usar:
 ```
 - Integrações cloud
- - Repositórios github
- - Pastas do dropbox
- - Arquivos do google drive
+   - Repositórios github
+   - Pastas do dropbox
+   - Arquivos do google drive
 - Local Features
- - Imagem de pasta
- - Auto salvamento para inventário
+   - Imagem de pasta
+   - Auto salvamento para inventário
 ```
 
 - Integrações cloud
- - Repositórios github
- - Pastas do dropbox
- - Arquivos do google drive
+   - Repositórios github
+   - Pastas do dropbox
+   - Arquivos do google drive
 - Local Features
- - Imagem de pasta
- - Auto salvamento para inventário
+   - Imagem de pasta
+   - Auto salvamento para inventário
