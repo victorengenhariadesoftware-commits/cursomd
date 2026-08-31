@@ -61,7 +61,6 @@ Link para qualquer página com `[Link](https://www.google.com/?hl=pt_br)`. Image
 Para citações a sintaxe funciona da seguinte forma:
 
 ```
-
 > Cada cachorro que lamba sua caceta.
 >
 >-Nóbrega, Victor
@@ -73,11 +72,11 @@ Citações podem conter outros elementos de mardown. Exemplo:
 ---
 
 Código
-Para blocos de código utilize a sintaxe ``` antes de iniciar e depois que encerrar o código:
+- Para blocos de código utilize a sintaxe ``` antes de iniciar e depois que encerrar o código:
 ```
 Código
 ```
-Também é possível usar apenas o código entre os sinais ``. Exemplo:
+- Também é possível usar apenas o código entre os sinais ``. Exemplo:
 `Código`
 
 ---
@@ -94,7 +93,11 @@ Também é possível usar apenas o código entre os sinais ``. Exemplo:
 
 ## Notas de rodapé
 Sintaxe: `[^1]`. Exemplo:
+```
 [^1]: As notas de rodapé aparecem embaixo.
+```
+
+---
 
 ## Equações matemáticas
 
