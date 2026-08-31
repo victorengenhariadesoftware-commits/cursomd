@@ -85,4 +85,4 @@ Também é possível usar apenas o código entre os sinais ``. Exemplo:
 ##Tabelas 
 | Empresa | CNPJ | Regime Tributário|
 |---------|------|------------------|
-| I9 Clinic Consultoria | | |
+| I9 Clinic Consultoria | 44.646.043/0001-14 | Simples Nacional |
