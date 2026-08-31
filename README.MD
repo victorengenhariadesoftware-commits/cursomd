@@ -2,9 +2,9 @@
 ---
 ## Formatação de Texto
 Mardown é fácil de formatar. Você pode usar:
-- Negrito: ```**bold**```
-- Itálico ```*italic*```
-- Riscado: ```~~strikethrough~~```
+- Negrito: `**bold**` **Negrito**
+- Itálico `*italic*` *Itálico*  
+- Riscado: `~~strikethrough~~` ~~Riscado~~
 
 Também pode combinar:
 - Negrito + Itálico: ```***bold italic***```
