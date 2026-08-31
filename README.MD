@@ -60,6 +60,8 @@ Link para qualquer página com `[Link](https://www.google.com/?hl=pt_br)`. Image
 ## Citações
 Para citações a sintaxe funciona da seguinte forma:
 
+```
 > Cada cachorro que lamba sua caceta.
 >
 >-Nóbrega, Victor
+```
