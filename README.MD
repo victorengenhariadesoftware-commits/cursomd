@@ -98,4 +98,8 @@ Sintaxe: `[^1]`. Exemplo:
 
 ## Equações matemáticas
 
-Sintaxe na linha: $E = mc^2$
+Sintaxe na linha: `$E = mc^2$`
+Sintaxe em bloco:
+$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+$$
