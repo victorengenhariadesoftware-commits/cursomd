@@ -18,4 +18,9 @@ Para listas não ordenadas use -, * ou +:
 + Item 3
 ```
 
+Para listas ordenadas, use os números de referência:
+1. Item 1
+2. Item 2
+3. Item 3
+
 
