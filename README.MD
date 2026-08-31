@@ -49,7 +49,7 @@ Para listas ordenadas, use os números de referência:
 - [ ] Connect a cloud service
 - [ ] Export the finished document
 ```
-- [] Set up editor
-- [] Write markdown
+- [X] Set up editor
+- [X] Write markdown
 - [] Connect a cloud service
 - [] Export the finished document
