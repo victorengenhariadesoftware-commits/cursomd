@@ -53,5 +53,4 @@ Para listas ordenadas, use os números de referência:
 ---
 
 ## Links e Imagens
-###Links###
-Link para qualquer página com `[Link](https://www.google.com/?hl=pt_br)`.
+Link para qualquer página com `[Link](https://www.google.com/?hl=pt_br)`. Imagens tem uma sintaxe parecida: ![Imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLGLkuivjwHMzovai36mwk_rIKyNrUF8q62Y76WWZBhQ&s=10)
