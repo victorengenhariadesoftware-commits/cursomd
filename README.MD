@@ -70,7 +70,7 @@ Para listas ordenadas, use os números de referência:
 
 ## Links e Imagens
 - Link para qualquer página com `[Link](https://www.google.com/?hl=pt_br)`. [Google(https://www.google.com/)
-- Imagens tem uma sintaxe parecida: `![Imagem](Endereço da imagem)`. ![imagem])(https://www.google.com/imgres?q=link&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F9a%2F52%2F1f%2F9a521f7813270c2bbcd58e18d471eef6.jpg&imgrefurl=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F722827808931349912%2F&docid=p5Il2qTp1nDx0M&tbnid=thvLDARc3tSmnM&vet=12ahUKEwjjnt2N3MuWAxVxGbkGHYsJDpsQnPAOegUIiAEQAA..i&w=662&h=1024&hcb=2&ved=2ahUKEwjjnt2N3MuWAxVxGbkGHYsJDpsQnPAOegUIiAEQAA)
+- Imagens tem uma sintaxe parecida: `![Imagem](Endereço da imagem)`. ![Link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdY8GSm5A2u-9Qo4LZNO6zCn-ncGvOHSiPJVN0s6SOtw&s=10)
 
 ---
 
