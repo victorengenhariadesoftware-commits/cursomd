@@ -44,8 +44,8 @@ Para listas ordenadas, use os números de referência:
 
 ## Lista de tarefas
 ```
-- [x] Set up editor
-- [x] Write markdown
+- [X] Set up editor
+- [X] Write markdown
 - [ ] Connect a cloud service
 - [ ] Export the finished document
 ```
