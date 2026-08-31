@@ -1,4 +1,4 @@
-# SEJA BEM VINDO AO CURSO
+# SEJA BEM VINDO AO CURSO DE MARKDOWN (.MD)
 ---
 ## Formatação de Texto
 Mardown é fácil de formatar. Você pode usar:
