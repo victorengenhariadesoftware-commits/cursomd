@@ -49,7 +49,8 @@ Para listas ordenadas, use os números de referência:
 - [ ] Connect a cloud service
 - [ ] Export the finished document
 ```
-- [X] Set up editor
-- [X] Write markdown
-- [ ] Connect a cloud service
-- [ ] Export the finished document
+
+---
+
+## Links e Imagens
+Link para qualquer página com [Link](https://www.google.com/?hl=pt_br) ou então você pode usar [https://www.google.com/?hl=pt_br] Link
