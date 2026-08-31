@@ -89,3 +89,9 @@ Também é possível usar apenas o código entre os sinais ``. Exemplo:
 | I9 Clinic Consultoria | 44.646.043/0001-14 | Simples Nacional |
 | Clínica Serrano | 26.364.130/0001-05 | Lucro Presumido |
 ```
+
+---
+
+## Notas de rodapé
+Sintaxe: `[^1]`. Exemplo:
+[^1]: As notas de rodapé aparecem embaixo.
