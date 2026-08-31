@@ -10,6 +10,8 @@ Também pode combinar:
 - Negrito + Itálico: ```***bold italic***```
 - Código da mesma linha: `inline code` (colocar entre ``)
 
+---
+
 ## Listas 
 Para listas não ordenadas use -, * ou +:
 ```
@@ -25,3 +27,23 @@ Para listas ordenadas, use os números de referência:
 3. Item 3
 ```
 
+---
+
+## Para trabalhar com listas aninhadas, você pode usar:
+```
+- Integrações cloud
+ - Repositórios github
+ - Pastas do dropbox
+ - Arquivos do google drive
+- Local Features
+ - Imagem de pasta
+ - Auto salvamento para inventário
+```
+
+- Integrações cloud
+ - Repositórios github
+ - Pastas do dropbox
+ - Arquivos do google drive
+- Local Features
+ - Imagem de pasta
+ - Auto salvamento para inventário
