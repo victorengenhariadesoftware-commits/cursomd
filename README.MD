@@ -68,6 +68,6 @@ Para citações a sintaxe funciona da seguinte forma:
 ```
 
 Citações podem conter outros elementos de mardown:
->**Dica** Use `Cmd + shift + Z` para entrar no modo Zen e escrever sem distrações.
+>`**Dica** Use `Cmd + shift + Z` para entrar no modo Zen e escrever sem distrações`.
 
 
