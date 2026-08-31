@@ -29,7 +29,7 @@ Para listas ordenadas, use os números de referência:
 
 ---
 
-## Para trabalhar com listas aninhadas, você pode usar:
+## Para trabalhar com listas aninhadas, você pode usar - e 3 espaços + -:
 ```
 - Integrações cloud
    - Repositórios github
@@ -40,10 +40,16 @@ Para listas ordenadas, use os números de referência:
    - Auto salvamento para inventário
 ```
 
-- Integrações cloud
-   - Repositórios github
-   - Pastas do dropbox
-   - Arquivos do google drive
-- Local Features
-   - Imagem de pasta
-   - Auto salvamento para inventário
+---
+
+## Lista de tarefas
+```
+- [] Set up editor
+- [] Write markdown
+- [] Connect a cloud service
+- [] Export the finished document
+```
+- [] Set up editor
+- [] Write markdown
+- [] Connect a cloud service
+- [] Export the finished document
