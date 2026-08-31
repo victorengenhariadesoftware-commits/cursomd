@@ -100,6 +100,8 @@ Sintaxe: `[^1]`. Exemplo:
 
 Sintaxe na linha: `$E = mc^2$`
 Sintaxe em bloco:
+```
 $$
 \sum_{i=1}^{n} i = \frac{n(n+1)}{2}
 $$
+```
