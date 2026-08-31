@@ -67,7 +67,15 @@ Para citações a sintaxe funciona da seguinte forma:
 >-Nóbrega, Victor
 ```
 
-Citações podem conter outros elementos de mardown:
->`**Dica** Use `Cmd + shift + Z` para entrar no modo Zen e escrever sem distrações`.
+Citações podem conter outros elementos de mardown. Exemplo:
+>**Dica** Use `Cmd + shift + Z` para entrar no modo Zen e escrever sem distrações.
 
+---
 
+Código
+Para blocos de código utilize a sintaxe:
+`
+```
+Código
+```
+`
