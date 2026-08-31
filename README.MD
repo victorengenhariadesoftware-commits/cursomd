@@ -82,6 +82,9 @@ Para citações a sintaxe funciona da seguinte forma:
 >
 >-Nóbrega, Victor
 ```
+> Cada cachorro que lamba sua caceta.
+>
+>-Nóbrega, Victor
 
 Citações podem conter outros elementos de mardown. Exemplo:
 >**Dica** Use `Cmd + shift + Z` para entrar no modo Zen e escrever sem distrações.
