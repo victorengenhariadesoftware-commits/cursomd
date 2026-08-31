@@ -53,4 +53,4 @@ Para listas ordenadas, use os números de referência:
 ---
 
 ## Links e Imagens
-Link para qualquer página com [Link](https://www.google.com/?hl=pt_br) ou então você pode usar [https://www.google.com/?hl=pt_br][Link].
+Link para qualquer página com `[Link](https://www.google.com/?hl=pt_br)`.
