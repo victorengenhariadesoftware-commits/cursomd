@@ -7,7 +7,7 @@ Mardown é fácil de formatar. Você pode usar:
 - Riscado: `~~strikethrough~~` ~~Riscado~~
 
 Também pode combinar:
-- Negrito + Itálico: ```***bold italic***```
+- Negrito + Itálico: `***bold italic***` ***Negrito e itálico***
 - Código da mesma linha: `inline code` (colocar entre ``)
 
 ---
