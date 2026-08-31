@@ -69,7 +69,7 @@ Para listas ordenadas, use os números de referência:
 ---
 
 ## Links e Imagens
-- Link para qualquer página com `[Link](https://www.google.com/?hl=pt_br)`. [Google(https://www.google.com/)
+- Link para qualquer página com `[Link](https://www.google.com/?hl=pt_br)`. [Google](https://www.google.com/)
 - Imagens tem uma sintaxe parecida: `![Imagem](Endereço da imagem)`. ![Link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdY8GSm5A2u-9Qo4LZNO6zCn-ncGvOHSiPJVN0s6SOtw&s=10)
 
 ---
