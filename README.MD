@@ -62,4 +62,4 @@ Para citações a sintaxe funciona da seguinte forma:
 
 > Cada cachorro que lamba sua caceta.
 >
->_Nóbrega, Victor
+>-Nóbrega, Victor
