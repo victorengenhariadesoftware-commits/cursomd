@@ -8,4 +8,4 @@ Mardown é fácil de formatar. Você pode usar:
 
 Também pode combinar:
 - Negrito + Itálico: ```***bold italic***```
-- Código da mesma linha: ```inline code```
+- Código da mesma linha: ````inline code````
