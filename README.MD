@@ -11,9 +11,9 @@ Também pode combinar:
 - Código da mesma linha: `inline code` (colocar entre ``)
 
 ## Listas 
-Listas ordenadas:
-```
-1 Primeiro item
-2 Segundo item
-3 Terceiro item
-```
+Para listas não ordenadas use -, * ou +:
+* Item 1
+- Item 2
++ Item 3
+
+
