@@ -46,8 +46,8 @@ Para listas ordenadas, use os números de referência:
 ```
 - [x] Set up editor
 - [x] Write markdown
-- [] Connect a cloud service
-- [] Export the finished document
+- [ ] Connect a cloud service
+- [ ] Export the finished document
 ```
 - [] Set up editor
 - [] Write markdown
