@@ -79,3 +79,10 @@ Código
 ```
 Também é possível usar apenas o código entre os sinais ``. Exemplo:
 `Código`
+
+---
+
+##Tabelas 
+| Empresa | CNPJ | Regime Tributário|
+|---------|------|------------------|
+| I9 Clinic Consultoria | | |
