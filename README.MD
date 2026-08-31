@@ -120,6 +120,7 @@ Sintaxe: `[^1]`. Exemplo:
 ```
 [^1]: As notas de rodapé aparecem embaixo.
 ```
+[^1]: As notas de rodapé aparecem embaixo.
 
 ---
 
