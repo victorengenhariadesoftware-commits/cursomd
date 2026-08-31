@@ -9,3 +9,11 @@ Mardown é fácil de formatar. Você pode usar:
 Também pode combinar:
 - Negrito + Itálico: ```***bold italic***```
 - Código da mesma linha: `inline code` (colocar entre ``)
+
+## Listas 
+Listas ordenadas:
+```
+1 Primeiro item
+2 Segundo item
+3 Terceiro item
+```
