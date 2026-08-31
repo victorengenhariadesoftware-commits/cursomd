@@ -44,6 +44,13 @@ Para listas ordenadas, use os números de referência:
    - Imagem de pasta
    - Auto salvamento para inventário
 ```
+- Integrações cloud
+   - Repositórios github
+   - Pastas do dropbox
+   - Arquivos do google drive
+- Local Features
+   - Imagem de pasta
+   - Auto salvamento para inventário
 
 ---
 
