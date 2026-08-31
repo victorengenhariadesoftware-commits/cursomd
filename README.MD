@@ -77,4 +77,5 @@ Para blocos de código utilize a sintaxe ``` antes de iniciar e depois que encer
 ```
 Código
 ```
-`
+Também é possível usar apenas o código entre os sinais ``. Exemplo:
+`Código`
