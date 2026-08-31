@@ -95,3 +95,7 @@ Também é possível usar apenas o código entre os sinais ``. Exemplo:
 ## Notas de rodapé
 Sintaxe: `[^1]`. Exemplo:
 [^1]: As notas de rodapé aparecem embaixo.
+
+## Equações matemáticas
+
+Sintaxe na linha: $E = mc^2$
