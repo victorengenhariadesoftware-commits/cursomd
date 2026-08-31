@@ -8,7 +8,6 @@ Mardown é fácil de formatar. Você pode usar:
 
 Também pode combinar:
 - Negrito + Itálico: `***bold italic***` ***Negrito e itálico***
-- Código da mesma linha: `inline code` (colocar entre ``)
 
 ---
 
@@ -19,6 +18,9 @@ Para listas não ordenadas use -, * ou +:
 - Item 2
 + Item 3
 ```
+* Item 1
+- Item 2
++ Item 3
 
 Para listas ordenadas, use os números de referência:
 ```
@@ -26,6 +28,9 @@ Para listas ordenadas, use os números de referência:
 2. Item 2
 3. Item 3
 ```
+1. Item 1
+2. Item 2
+3. Item 3
 
 ---
 
