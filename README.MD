@@ -34,7 +34,8 @@ Para listas ordenadas, use os números de referência:
 
 ---
 
-## Para trabalhar com listas aninhadas, você pode usar - e 3 espaços + -:
+## Listas aninhadas (nesting)
+Para trabalhar com listas aninhadas, você pode usar - e 3 espaços + -:
 ```
 - Integrações cloud
    - Repositórios github
