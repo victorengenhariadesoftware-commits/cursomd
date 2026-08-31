@@ -61,6 +61,10 @@ Para listas ordenadas, use os números de referência:
 - [ ] Connect a cloud service
 - [ ] Export the finished document
 ```
+- [X] Set up editor
+- [X] Write markdown
+- [ ] Connect a cloud service
+- [ ] Export the finished document
 
 ---
 
