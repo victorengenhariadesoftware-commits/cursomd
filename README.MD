@@ -12,8 +12,10 @@ Também pode combinar:
 
 ## Listas 
 Para listas não ordenadas use -, * ou +:
+```
 * Item 1
 - Item 2
 + Item 3
+```
 
 
